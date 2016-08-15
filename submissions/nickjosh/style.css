@@ -1,0 +1,27 @@
+p {
+  font-family: Verdana;font-size: 20px;text-align: center;
+}
+
+h1 {
+  font-size: 32px;color:blue;font-weight: bold;text-align: center
+}
+
+h2 {
+  font-size: 32px;color:blue;font-weight: bold;
+}
+
+body {
+  background-color: red;
+}
+body {
+  margin:auto;
+}
+main {
+  padding:0
+}
+body a {
+  font-size: 28px;font-weight: bold;
+}
+li {
+  font-size: 24px;
+}
